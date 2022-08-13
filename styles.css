@@ -1,0 +1,24 @@
+body{
+  background: #161ECE;
+background: -moz-radial-gradient(center, #161ECE 0%, #2590D7 50%, #F2F3F3 100%);
+background: -webkit-radial-gradient(center, #161ECE 0%, #2590D7 50%, #F2F3F3 100%);
+background: radial-gradient(ellipse at center, #161ECE 0%, #2590D7 50%, #F2F3F3 100%);
+font-family: tahoma;
+font-size: 16px;
+width: 100%;
+  height: 100vh;
+  margin: 20;
+}
+
+h4{ display:block;
+}
+
+input[type="submit"] {
+  display: block;
+  width: 60%;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  background-color: #F0F8FF;
+  border-color: grey;
+  min-width: 300px;
